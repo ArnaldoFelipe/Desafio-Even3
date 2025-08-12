@@ -5,19 +5,18 @@ Este repositório contém a minha solução completa para o desafio técnico da 
 
 ---
 
-## 💻 Parte 1: Busca Binária (Vídeo de Apresentação)
+## ⚙️ Parte 1: Desafio de Lógica (Números Únicos)
+
+Nesta seção, apresento a minha solução para o desafio de encontrar números únicos em uma lista.
+- **Código-fonte:** O código da solução pode ser encontrado no arquivo `exercicio1 - Logica`.
+
+---
+
+## 💻 Parte 2: Busca Binária (Vídeo de Apresentação)
 
 Apresento neste vídeo a explicação teórica e a demonstração prática do algoritmo de busca binária. Nele, abordo o conceito, as condições de uso, as vantagens e uma aplicação em código.
 
 **🔗 Link para o Vídeo:** [(https://drive.google.com/drive/folders/1BaIfES14B8KKLB-cPnaBnMJ1P7wNtIhT?usp=sharing)]
-
----
-
-## ⚙️ Parte 2: Desafio de Lógica (Números Únicos)
-
-Nesta seção, apresento a minha solução para o desafio de encontrar números únicos em uma lista.
-
-- **Código-fonte:** O código da solução pode ser encontrado no arquivo `exercicio1 - Logica`.
 
 ---
 
