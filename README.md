@@ -17,7 +17,7 @@ Apresento neste vídeo a explicação teórica e a demonstração prática do al
 
 Nesta seção, apresento a minha solução para o desafio de encontrar números únicos em uma lista.
 
-- **Código-fonte:** O código da solução pode ser encontrado no arquivo `exercicio1/BuscaNumerosUnicos.java`.
+- **Código-fonte:** O código da solução pode ser encontrado no arquivo `exercicio1 - Logica`.
 
 ---
 
